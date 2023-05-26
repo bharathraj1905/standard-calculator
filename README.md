@@ -97,7 +97,10 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![](./exp 8 web.png)
-![](./exp 8 web 1.png)
+![exp 8 web](https://github.com/bharathraj1905/standard-calculator/assets/121490575/53052811-9006-4feb-bcc5-8b56ac200665)
+
+![exp 8 web 1](https://github.com/bharathraj1905/standard-calculator/assets/121490575/90f410f1-ba21-4923-9811-8c9a06f63b0d)
+
+
 ## Result:
 Thus the program has been executed successfully.
